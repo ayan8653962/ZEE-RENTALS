@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+h1{
+   font-weight: 600 !important;
+   color: orange !important; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: x-large !important;
+   font-style: oblique;
+   text-shadow: 1px 1px 4px black, -1px -1px 4px white; 
+}
+.on{
+  font-weight: bolder !important;
+  color: black;
+  text-shadow: none; 
+}
+nav a{
+  color: black !important;
+  font-weight: 500 !important;
+}
+nav .span:hover{
+  border-bottom: 3px solid red;
+  padding-bottom: 5px;
+  color: black;
+}
+.babar{
+   width: 100%;
+   height: auto;
+   background-image: url(img/banner1.webp);
+   background-size: cover;
+   height: 300px;    
+}
+
+.babar p{
+  padding-top: 90px;
+  text-align: center;
+  color: white;
+  font-size: x-large;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
