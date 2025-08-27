@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; 
+}
+.span1{
+  /* color: white !important; */
+   color: orange !important; 
+  background-color: black;
+  padding: 10px 80px;
+  font-size: larger;
+  font-style: oblique;
+  margin: 65px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 10px;
+}
+.info {
+  width: 100%;
+  height: auto;
+  text-align: center;
+  color: black;
+
+}
+.iframa {
+   width: 100%;
+   height: auto;
+   /* max-width: 250px !important;    */
+
+
+
+}
